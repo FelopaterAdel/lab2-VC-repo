@@ -1,2 +1,2 @@
 hi
-<img src="1" alt="Sample Image" width="300">
+<img src="1.png" alt="Sample Image" width="300">
